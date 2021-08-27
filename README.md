@@ -1,6 +1,5 @@
-# 歡迎來到許珊綺個人程式頁
-
-Sandy Hsu's resume -TBA- 許珊綺 履歷 </br>
+<center> <h1>歡迎來到許珊綺個人程式頁</h1> </center>
+<center> Sandy Hsu's resume -TBA- 許珊綺 履歷</center>
 
 
 
