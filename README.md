@@ -1,5 +1,5 @@
-Welcome to Sandy Hsu's Personal Page </br>
-歡迎來到許珊綺個人程式頁</br>
+# Welcome to Sandy Hsu's Personal Page </br>
+# 歡迎來到許珊綺個人程式頁</br>
 
 Sandy Hsu's resume -TBA- 許珊綺 履歷 </br>
 
