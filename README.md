@@ -11,6 +11,9 @@ As a consumer, I found that it is very difficult to find the exact clothing arti
 **目的:**<br/>
 對于喜歡網購衣服的我，常常因爲文字限制，很難精準找到我想要的衣服。所以，我用卷積神經網路希望增進網路上的購物體驗。這個系統使用兩個模型，semantic segmentation model & ImageNet。第一個模型旨在去除背景留下衣服。第二個模型旨在轉換影像成爲特徵截取。然後，使用歐式距離來決定最相似的推薦衣服。最後，已line做爲使用者介面。<br/>
 
+<video controls>
+  <source src=”https://user-images.githubusercontent.com/63726744/131056824-9a27cd65-5d5f-436c-827f-77edbe6e3615.mp4” type=video/ogg>
+</video>
 https://user-images.githubusercontent.com/63726744/131056824-9a27cd65-5d5f-436c-827f-77edbe6e3615.mp4
 
 
@@ -27,15 +30,16 @@ https://user-images.githubusercontent.com/63726744/131056824-9a27cd65-5d5f-436c-
 
 # Work Experience 工作經驗
 - Data Engineering Immerseive (Student), 2020~current 資料工程學生
-- Entrepreneur, Professional Organizer & Social Media Strategist, 2016~current 創業 - 整理師 & 社群經營
+- Entrepreneur, Professional Organizer & Social Media Strategist, 2016~current <br/>
+創業 - 整理師 & 社群經營
 - Program Assistant, CE&P, McMaster University, 2008~2013, 癌症研究行政人員
 
 # Education 學歷
 - Taiwan AI Academy Technical Professional Program, Taiwan. 2021 <br/>
 台灣人工智慧學校 技術領袖班
-- Completed course work of MSc in Health Research Method McMaster University, Hamilton, Canada. 2012 <br/>
+- Completed courses of MSc in Health Research Method McMaster University, Canada. 2012 <br/>
 加拿大 麥克馬斯特大學 臨床研究 碩士肄業
-- Degree in Bachelor of Arts, Specialized Honours in Sociology & Astronomy. York University, Toronto, Canada. 2007 <br/>
+- Bachelor Degree, Specialized Honours in Sociology & Astronomy. York University, Canada. 2007 <br/>
 加拿大 約克大學 天文 & 社會學系 學士畢業 
 
 <img img align="left" src="https://user-images.githubusercontent.com/63726744/131054316-d8c43f1c-dc69-4d8e-b5e6-cfb803d81a62.jpg" width="100" height="130">
