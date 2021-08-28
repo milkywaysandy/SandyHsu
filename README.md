@@ -1,15 +1,16 @@
 <center> <h1>Welcome to Sandy Hsu's Personal Page</h1> </center>
 <center> <h2>歡迎來到許珊綺個人程式頁</h2> </center>
 <center> Sandy Hsu's resume -TBA- 許珊綺 履歷</center>
+<center>  Email：organizingwithsandy@gmail.com</center>
 
 
 
 # Project 代表作
 **Purpose:**<br/>
-As a consumer, I found that it is very difficult to find the exact clothing articles online due to the limitation of rewritten descriptions and tags. Thus, I tried to use my knowledge of machine learning(CNN) to create an AI system. It aim to help on the shopping experience if adopted at an online merchant. This clothing retrieval system contains 2 pre-trained models, semantic segmentation model & ImageNet. The first model is to separate the clothing item from the background, while second model turns the clothing image into feature vector. Finally, we use closest euclidean distances of the vectors to decide which items are to be presented to the user. Finally, use line bot to create an excellent user experience.<br/>
+As a consumer, I found that it is very difficult to find the exact clothing articles online due to the limitation of written descriptions and tags. Thus, I tried to use my knowledge of machine learning(CNN) to create an AI system. It aims to help on the shopping experience if adopted at an online merchant. This clothing retrieval system contains 2 pre-trained models, semantic segmentation model & ImageNet. The first model is to separate the clothing items from the background, while second model turns the clothing image into feature vectors. Finally, we use closest euclidean distances of the vectors to decide which items are to be presented to the user. Finally, using line bot to create an excellent user experience.<br/>
 <br/>
 **目的:**<br/>
-對于喜歡網購衣服的我，常常因爲文字限制，很難精準找到我想要的衣服。所以，我用卷積神經網路希望增進網路上的購物體驗。這個系統使用兩個模型，semantic segmentation model & ImageNet。第一個模型旨在去除背景留下衣服。第二個模型旨在轉換影像成爲特徵截取。然後，使用歐式距離來決定最相似的推薦衣服。最後，已line做爲使用者介面。<br/>
+對于喜歡網購衣服的我，常常因爲文字限制，很難精準找到我想要的衣服。所以，我用卷積神經網路希望增進網路上的購物體驗。這個系統使用兩個模型，semantic segmentation model & ImageNet。第一個模型旨在去除背景留下衣服。第二個模型旨在轉換影像成爲特徵截取。然後，使用歐式距離來決定最相似的推薦衣服。最後，以line做爲使用者介面。<br/>
 
 <video controls>
   <source src=”https://user-images.githubusercontent.com/63726744/131056824-9a27cd65-5d5f-436c-827f-77edbe6e3615.mp4” type=video/ogg>
@@ -26,7 +27,7 @@ https://user-images.githubusercontent.com/63726744/131056824-9a27cd65-5d5f-436c-
 - html
 - facebook API
 - Google Analytics
-- google search console
+- Google Search Console
 
 # Work Experience 工作經驗
 - Data Engineering Immerseive (Student), 2020~current 資料工程學生
