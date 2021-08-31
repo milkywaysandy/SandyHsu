@@ -27,7 +27,7 @@ As a consumer, I found that it is very difficult to find the exact clothing arti
 # Coding Skill 程式能力
 - Git
 - python
-- MetLab
+- MatLab
 - MySQL
 - web crawler
 - Machine Learning & Deep Learning
