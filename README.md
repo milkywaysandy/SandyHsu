@@ -1,6 +1,6 @@
 <center> <h1>歡迎來到許珊綺個人網頁</h1> </center>
-<center> <a href="https://github.com/milkywaysandy/SandyHsu/blob/main/Resume%20-%20Data.pdf" target="_top">Sandy Hsu's resume（English）</a> 
-<a href="https://github.com/milkywaysandy/SandyHsu/blob/main/%E5%B1%A5%E6%AD%B7%20-%20%E8%A8%B1%E7%8F%8A%E7%B6%BA%20-%20%E8%B3%87%E6%96%99%E5%B7%A5%E7%A8%8B%E5%B8%AB.pdf" target="_top">許珊綺 履歷（中文版）</a><br/>
+<center> <a href="https://drive.google.com/file/d/1mj65BHsZxHMy6L1YAV5CCxdAUaN8RJxo/view?usp=sharing" target="_top">Sandy Hsu's resume（English）</a> 
+<a href="https://drive.google.com/file/d/1YtPkd9ONcCmF69zFmes5mc0fj6HZ786U/view?usp=sharing" target="_top">許珊綺 履歷（中文版）</a><br/>
 </center>
 <center>  Email：organizingwithsandy@gmail.com</center><br/>
 <center>  <a href="https://www.linkedin.com/in/sandy-hsu-a2044549/" target="_top">Linkedin</a></center><br/>
