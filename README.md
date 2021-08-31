@@ -37,17 +37,17 @@ As a consumer, I found that it is very difficult to find exact clothing articles
 - Google Search Console
 
 # Work Experience 
-- Data Engineering Immerseive (Student), 2020~current 
+- Data Engineering Immerseive (Student) 2020~current 
   -  Ranked first in AIA Technical Professional Program project competition
   -  Won Best Poster for AIA Technical Professional Program project competition 
   -  Self-taught python, SQL, Machine Learning in eight months 
   -  Self-taught Machine Learning by Andrew Ng, Stanford from coursera<br/>
-- Entrepreneur, Professional Organizer & Social Media Strategist, 2016~current
+- Entrepreneur, Professional Organizer & Social Media Strategist 2016~current
   -  Self-taught and built a professional website for my professional organizing business
 http://www.organizingwithsandy.com/
   -  Created a 1000+ members on facebook niche page for my professional organizing business
 https://www.facebook.com/OrganizingWithSandy<br/>
-- Program Assistant, CE&P, McMaster University, 2008~2013
+- Program Assistant, CE&P, McMaster University 2008~2013
   -  Created, designed, maintained over 23 online surveys with 50 plus questions and 100 plus international responses depending on the demand of the research projects Summarized survey results for other research coordinators as references. Software using: Access & Google Workspace.
   -  Ability to frequently update Intranet (Internal web sources pages) through Adobe Dreamweaver or Contribute or by using SSH Secure Shell and editing HTML code
   -  Co-author an article on Pain (medical journal) by assistanting on data clearning
