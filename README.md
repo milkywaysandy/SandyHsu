@@ -24,7 +24,7 @@ As a consumer, I found that it is very difficult to find exact clothing articles
 </div>
 
 
-# Coding Skill & application 程式能力 & 應用程式
+# Coding Skill & Application 程式能力 & 應用程式
 - Git
 - python
 - MatLab
