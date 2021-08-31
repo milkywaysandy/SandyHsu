@@ -39,7 +39,7 @@ As a consumer, I found that it is very difficult to find exact clothing articles
 - Google Search Console
 
 # Work Experience 
-- Data Engineering Immerseive (Student) 2020~current 
+- Data Engineering Immersive (Student) 2020~current 
   -  Ranked first in AIA Technical Professional Program project competition
   -  Won Best Poster for AIA Technical Professional Program project competition 
   -  Self-taught python, SQL, Machine Learning in eight months 
