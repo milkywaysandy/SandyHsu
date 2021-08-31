@@ -1,5 +1,5 @@
 <center> <h1>歡迎來到許珊綺個人網頁</h1> </center>
-<center> Sandy Hsu's resume （TBA） - 
+<center> <a href="https://github.com/milkywaysandy/SandyHsu/blob/main/Resume%20-%20Data.pdf" target="_top">Sandy Hsu's resume（English）</a> 
 <a href="https://github.com/milkywaysandy/SandyHsu/blob/main/%E5%B1%A5%E6%AD%B7%20-%20%E8%A8%B1%E7%8F%8A%E7%B6%BA%20-%20%E8%B3%87%E6%96%99%E5%B7%A5%E7%A8%8B%E5%B8%AB.pdf" target="_top">許珊綺 履歷（中文版）</a><br/>
 </center>
 <center>  Email：organizingwithsandy@gmail.com</center><br/>
