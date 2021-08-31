@@ -49,7 +49,6 @@ As a consumer, I found that it is very difficult to find exact clothing articles
 <a href="http://www.organizingwithsandy.com/" target="_top">Organizing With Sandy Web Page</a>
   -  Created a 1000+ members on facebook niche page for my professional organizing business
 <a href="https://www.facebook.com/OrganizingWithSandy" target="_top">@OrganizingWithSandy</a>
-<br/>
 - Program Assistant, CE&P, McMaster University 2008~2013
   -  Created, designed, maintained over 23 online surveys with 50 plus questions and 100 plus international responses depending on the demand of the research projects Summarized survey results for other research coordinators as references. Software using: Access & Google Workspace.
   -  Ability to frequently update Intranet (Internal web sources pages) through Adobe Dreamweaver or Contribute or by using SSH Secure Shell and editing HTML code
