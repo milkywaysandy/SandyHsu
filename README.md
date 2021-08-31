@@ -43,8 +43,10 @@ As a consumer, I found that it is very difficult to find exact clothing articles
   -  Self-taught python, SQL, Machine Learning in eight months 
   -  Self-taught Machine Learning by Andrew Ng, Stanford from coursera
 - Entrepreneur, Professional Organizer & Social Media Strategist, 2016~current
-  -  Self-taught and built a professional website for my professional organizing business
-  -  Created a 1000+ members on facebook niche page for my professional organizing business
+  -  Self-taught and built a professional website for my professional organizing business </br>
+http://www.organizingwithsandy.com/
+  -  Created a 1000+ members on facebook niche page for my professional organizing business</br>
+https://www.facebook.com/OrganizingWithSandy
 - Program Assistant, CE&P, McMaster University, 2008~2013
   -  Created, designed, maintained over 23 online surveys with 50 plus questions and 100 plus international responses depending on the demand of the research projects Summarized survey results for other research coordinators as references. Software using: Access & Google Workspace.
   -  Ability to frequently update Intranet (Internal web sources pages) through Adobe Dreamweaver or Contribute or by using SSH Secure Shell and editing HTML code
@@ -61,15 +63,15 @@ As a consumer, I found that it is very difficult to find exact clothing articles
   - 半年內自學程式語言、機器 & 深度學習
   - 自學 - 吳恩達coursera機器學習課程
 - 創業 : 整理師 & 社群經營 2006~現在
-  - 自學建造整理師創業網站
-  - 創造1000+粉絲人次、整理相關的小眾臉書粉絲頁
+  - 自學建造整理師創業網站: http://www.organizingwithsandy.com/
+  - 創造1000+粉絲人次、整理相關的小眾臉書粉絲頁: https://www.facebook.com/OrganizingWithSandy
 - 癌症研究行政人員 2008~2013
   - 創建、設計、維護 23份、各50+題、來自100+國際受試者回饋的線上問卷。使用Access, Google Workspace
   - 負責部門內部網站的更新 & 管理
   - 協助資料清理而成爲發表在醫學期刊-Pain上文章共同作者  
   - 就職第一年內晉升專案助理、職責增加，並晉升了兩個薪級
 - 約克大學天文台研究助理 2000~2007
-  - 建立、操縱 400+筆變星軌道、火星大氣研究資料。使用Excel
+  - 建立、操縱 400+筆變星軌道、火星大氣研究資料庫。使用Excel
   - 因良好的人際溝通技巧而晉升天文台統籌
 
 # Education 學歷
@@ -78,7 +80,7 @@ As a consumer, I found that it is very difficult to find exact clothing articles
 - Completed courses of MSc in Health Research Method McMaster University, Canada. 2012 <br/>
 加拿大 麥克馬斯特大學 臨床研究 碩士肄業
 - Bachelor Degree, Specialized Honours in Sociology & Astronomy. York University, Canada. 2007 <br/>
-加拿大 約克大學 天文 & 社會學系 學士畢業 
+加拿大 約克大學 社會學 & 天文系 學士畢業 
 
 <img img align="left" src="https://user-images.githubusercontent.com/63726744/131054316-d8c43f1c-dc69-4d8e-b5e6-cfb803d81a62.jpg" width="100" height="130">
 <br/> 
