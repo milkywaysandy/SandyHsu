@@ -2,9 +2,9 @@
 <center> <a href="https://drive.google.com/file/d/1mj65BHsZxHMy6L1YAV5CCxdAUaN8RJxo/view?usp=sharing" target="_top">Sandy Hsu's resume（English）</a> 
 <a href="https://drive.google.com/file/d/1YtPkd9ONcCmF69zFmes5mc0fj6HZ786U/view?usp=sharing" target="_top">許珊綺 履歷（中文版）</a><br/>
 </center>
-<center>  Email：organizingwithsandy@gmail.com</center><br/>
-<center>  <a href="https://www.linkedin.com/in/sandy-hsu-a2044549/" target="_top">Linkedin</a></center><br/>
-<center>  <a href="https://github.com/milkywaysandy" target="_top">GitHub</a></center><br/>
+<center>  Email：organizingwithsandy@gmail.com</center>
+<center>  <a href="https://www.linkedin.com/in/sandy-hsu-a2044549/" target="_top">Linkedin</a></center>
+<center>  <a href="https://github.com/milkywaysandy" target="_top">GitHub</a></center>
 
 # Project 代表作
 <a href="https://github.com/milkywaysandy/Clothing-Retrieval" target="_top">Link to: Clothing Retrieval Project</a><br/>
@@ -50,12 +50,12 @@ As a consumer, I found that it is very difficult to find exact clothing articles
   -  Created a 1000+ members on facebook niche page for my professional organizing business
 <a href="https://www.facebook.com/OrganizingWithSandy" target="_top">@OrganizingWithSandy</a>
 - Program Assistant, CE&P, McMaster University 2008~2013
-  -  Created, designed, maintained over 23 online surveys with 50 plus questions and 100 plus international responses depending on the demand of the research projects Summarized survey results for other research coordinators as references. Software using: Access & Google Workspace.
+  -  Created, designed, maintained over 23 online surveys with 50 plus questions and 100 plus international responses depending on the demand of the research projects Summarized survey results for other research coordinators as references. <br/>Software using: Access & Google Workspace.
   -  Ability to frequently update Intranet (Internal web sources pages) through Adobe Dreamweaver or Contribute or by using SSH Secure Shell and editing HTML code
   -  Co-author an article on Pain (medical journal) by assisting on data cleaning
   -  Increased responsibilities as program assistant, resulted in job description re-evaluation, and promoted by two salary grades<br/>
 - York University Observatory Student Coordinator & Research Assistant 2000~2007 
-  - Contributed data management skills by independently creating an Excel database to manipulate and maintain over 400 data sets
+  - Contributed data management skills by independently creating an Excel database to manipulate and maintain 400+ data sets
   - Promoted to Observatory Coordinator based on exceptional interpersonal skills with colleagues and outstanding communication skills with the public
 
 # 工作經驗
@@ -68,7 +68,7 @@ As a consumer, I found that it is very difficult to find exact clothing articles
   - 自學建造整理師創業網站: <a href="http://www.organizingwithsandy.com/" target="_top">效率媽咪生活網站</a><br/>
   - 創造1000+粉絲人次、整理相關的小眾臉書粉絲頁: <a href="https://www.facebook.com/OrganizingWithSandy" target="_top">@OrganizingWithSandy</a>
 - 癌症研究行政人員 2008~2013
-  - 創建、設計、維護 23份、各50+題、來自100+國際受試者回饋的線上問卷。使用Access, Google Workspace
+  - 創建、設計、維護 23份、各50+題、來自100+國際受試者回饋的線上問卷。<br/>使用Access, Google Workspace
   - 負責部門內部網站的更新 & 管理
   - 協助資料清理而成爲發表在醫學期刊-Pain上文章共同作者  
   - 就職第一年內晉升專案助理、職責增加，並晉升了兩個薪級<br/>
