@@ -3,7 +3,7 @@
 <a href="https://drive.google.com/file/d/1YtPkd9ONcCmF69zFmes5mc0fj6HZ786U/view?usp=sharing" target="_top">許珊綺 履歷（中文版）</a><br/>
 </center>
 <center>  Email：organizingwithsandy@gmail.com</center>
-<center>  <a href="https://www.linkedin.com/in/sandy-hsu-a2044549/" target="_top">Linkedin</a></center>
+<center>  <a href="https://www.linkedin.com/in/sandy-hsu-a2044549/" target="_top">LinkedIn</a></center>
 <center>  <a href="https://github.com/milkywaysandy" target="_top">GitHub</a></center>
 
 # Project 代表作
