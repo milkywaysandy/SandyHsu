@@ -1,4 +1,4 @@
-<center> <h1>歡迎來到許珊綺個人程式頁</h1> </center>
+<center> <h1>歡迎來到許珊綺個人網頁</h1> </center>
 <center> Sandy Hsu's resume -TBA- 許珊綺 履歷</center>
 <center>  Email：organizingwithsandy@gmail.com</center>
 
@@ -8,10 +8,10 @@
 <a href="https://github.com/milkywaysandy/Clothing-Retrieval" target="_top">Link to: Clothing Retrieval Project</a><br/>
 <br/>
 **Purpose:**<br/>
-As a consumer, I found that it is very difficult to find the exact clothing articles online due to the limitation of written descriptions and tags. Thus, I tried to use my knowledge of machine learning(CNN) to create an AI system. It aims to help on the shopping experience if adopted at an online merchant. This clothing retrieval system contains 2 pre-trained models, semantic segmentation model & ImageNet. The first model is to isolate the clothing items from the background, while second model turns the clothing image into feature vectors. Finally, we use closest euclidean distances of the vectors to decide which items are to be presented to the user. Finally, using Flask, Dockers to communicate via line bot to create an excellent user experience.<br/>
+As a consumer, I found that it is very difficult to find exact clothing articles online due to the limitations of written descriptions and tags. Thus, I tried to use my knowledge of machine learning(CNN) to create an AI system. It aims to help on the shopping experience if adopted by an online merchant. This clothing retrieval system contains two pre-trained models: a semantic segmentation model & ImageNet. The first model is to isolate the clothing items from the background, while the second model turns the clothing image into feature vectors. Finally, we use closest euclidean distance of the vectors to decide which items are to be presented to the user. Finally, using Flask, Docker to communicate via line bot to create an excellent user experience.<br/>
 <br/>
 **目的:**<br/>
-對于喜歡網購衣服的我，常常因爲文字限制，很難精在電商所引裡準找到我想要的衣服。所以，我用卷積神經網路希望增進網路上的購物體驗。這個系統使用兩個模型，semantic segmentation model & ImageNet。第一個模型旨在去除背景留下衣服。第二個模型旨在轉換影像成爲特徵截取。然後，使用歐式距離來決定最相似的推薦衣服。最後，以line做爲使用者介面。<br/>
+對于喜歡網購衣服的我，常常因爲文字限制，很難精準的在電商所引裡找到我想要的衣服。所以，我用卷積神經網路做成一個檢索系統，希望成爲電商的一部份，而增進更好的購物體驗。這個系統使用兩個模型，semantic segmentation model & ImageNet。第一個模型旨在去除背景留下衣服。第二個模型旨在轉換影像成爲特徵截取。然後，使用使用者照片跟電商商品資料庫裡最近的歐式距離，來決定最相似的推薦衣服。最後，以line做爲使用者介面。<br/>
 
 <div class="embed-container">
   <iframe
@@ -24,7 +24,7 @@ As a consumer, I found that it is very difficult to find the exact clothing arti
 </div>
 
 
-# Coding Skill 程式能力
+# Coding Skill & application 程式能力 & 應用程式
 - Git
 - python
 - MatLab
@@ -82,5 +82,6 @@ As a consumer, I found that it is very difficult to find the exact clothing arti
 
 <img img align="left" src="https://user-images.githubusercontent.com/63726744/131054316-d8c43f1c-dc69-4d8e-b5e6-cfb803d81a62.jpg" width="100" height="130">
 <br/> 
-In spare time, I love to cook, makes food photo graphs, and play with my two lovely girls.<br/>
+In my 
+spare time, I love to cook, makes food photo graphs, and play with my two lovely girls.<br/>
 休閒時，我喜歡做菜、食物攝影、和陪伴我的兩個女兒。
