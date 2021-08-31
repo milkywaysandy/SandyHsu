@@ -1,8 +1,10 @@
 <center> <h1>歡迎來到許珊綺個人網頁</h1> </center>
-<center> Sandy Hsu's resume -TBA- 許珊綺 履歷</center>
-<center>  Email：organizingwithsandy@gmail.com</center>
-
-
+<center> Sandy Hsu's resume （TBA） - 
+<a href="https://github.com/milkywaysandy/SandyHsu/blob/main/%E5%B1%A5%E6%AD%B7%20-%20%E8%A8%B1%E7%8F%8A%E7%B6%BA%20-%20%E8%B3%87%E6%96%99%E5%B7%A5%E7%A8%8B%E5%B8%AB.pdf" target="_top">許珊綺 履歷（中文版）</a><br/>
+</center>
+<center>  Email：organizingwithsandy@gmail.com</center><br/>
+<center>  <a href="https://www.linkedin.com/in/sandy-hsu-a2044549/" target="_top">Linkedin</a></center><br/>
+<center>  <a href="https://github.com/milkywaysandy" target="_top">GitHub</a></center><br/>
 
 # Project 代表作
 <a href="https://github.com/milkywaysandy/Clothing-Retrieval" target="_top">Link to: Clothing Retrieval Project</a><br/>
@@ -44,9 +46,10 @@ As a consumer, I found that it is very difficult to find exact clothing articles
   -  Self-taught Machine Learning by Andrew Ng, Stanford from coursera<br/>
 - Entrepreneur, Professional Organizer & Social Media Strategist 2016~current
   -  Self-taught and built a professional website for my professional organizing business
-http://www.organizingwithsandy.com/
+<a href="http://www.organizingwithsandy.com/" target="_top">Organizing With Sandy Web Page</a>
   -  Created a 1000+ members on facebook niche page for my professional organizing business
-https://www.facebook.com/OrganizingWithSandy<br/>
+<a href="https://www.facebook.com/OrganizingWithSandy" target="_top">@OrganizingWithSandy</a>
+<br/>
 - Program Assistant, CE&P, McMaster University 2008~2013
   -  Created, designed, maintained over 23 online surveys with 50 plus questions and 100 plus international responses depending on the demand of the research projects Summarized survey results for other research coordinators as references. Software using: Access & Google Workspace.
   -  Ability to frequently update Intranet (Internal web sources pages) through Adobe Dreamweaver or Contribute or by using SSH Secure Shell and editing HTML code
@@ -63,8 +66,8 @@ https://www.facebook.com/OrganizingWithSandy<br/>
   - 半年內自學程式語言、機器 & 深度學習
   - 自學 - 吳恩達coursera機器學習課程<br/>
 - 創業 : 整理師 & 社群經營 2006~現在
-  - 自學建造整理師創業網站: http://www.organizingwithsandy.com/
-  - 創造1000+粉絲人次、整理相關的小眾臉書粉絲頁: https://www.facebook.com/OrganizingWithSandy<br/>
+  - 自學建造整理師創業網站: <a href="http://www.organizingwithsandy.com/" target="_top">效率媽咪生活網站</a><br/>
+  - 創造1000+粉絲人次、整理相關的小眾臉書粉絲頁: <a href="https://www.facebook.com/OrganizingWithSandy" target="_top">@OrganizingWithSandy</a>
 - 癌症研究行政人員 2008~2013
   - 創建、設計、維護 23份、各50+題、來自100+國際受試者回饋的線上問卷。使用Access, Google Workspace
   - 負責部門內部網站的更新 & 管理
