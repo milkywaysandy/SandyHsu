@@ -41,17 +41,17 @@ As a consumer, I found that it is very difficult to find exact clothing articles
   -  Ranked first in AIA Technical Professional Program project competition
   -  Won Best Poster for AIA Technical Professional Program project competition 
   -  Self-taught python, SQL, Machine Learning in eight months 
-  -  Self-taught Machine Learning by Andrew Ng, Stanford from coursera</br>
+  -  Self-taught Machine Learning by Andrew Ng, Stanford from coursera<br/>
 - Entrepreneur, Professional Organizer & Social Media Strategist, 2016~current
-  -  Self-taught and built a professional website for my professional organizing business </br>
+  -  Self-taught and built a professional website for my professional organizing business
 http://www.organizingwithsandy.com/
-  -  Created a 1000+ members on facebook niche page for my professional organizing business</br>
-https://www.facebook.com/OrganizingWithSandy</br>
+  -  Created a 1000+ members on facebook niche page for my professional organizing business
+https://www.facebook.com/OrganizingWithSandy<br/>
 - Program Assistant, CE&P, McMaster University, 2008~2013
   -  Created, designed, maintained over 23 online surveys with 50 plus questions and 100 plus international responses depending on the demand of the research projects Summarized survey results for other research coordinators as references. Software using: Access & Google Workspace.
   -  Ability to frequently update Intranet (Internal web sources pages) through Adobe Dreamweaver or Contribute or by using SSH Secure Shell and editing HTML code
   -  Co-author an article on Pain (medical journal) by assistanting on data clearning
-  -  Increased responsibilities as program assistant, resulted in job description re-evaluation, and promoted by two salary grades</br>
+  -  Increased responsibilities as program assistant, resulted in job description re-evaluation, and promoted by two salary grades<br/>
 - York University Observatory Student Coordinator & Research Assistant 2000~2007 
   - Contributed data management skills by independently creating an Excel database to manipulate and maintain over 400 data sets
   - Promoted to Observatory Coordinator based on exceptional interpersonal skills with colleagues and outstanding communication skills with the public
@@ -61,15 +61,15 @@ https://www.facebook.com/OrganizingWithSandy</br>
   - AIA 第九期技術領袖班 專題競賽第一名
   - AIA 第九期技術領袖班 最佳人氣獎
   - 半年內自學程式語言、機器 & 深度學習
-  - 自學 - 吳恩達coursera機器學習課程</br>
+  - 自學 - 吳恩達coursera機器學習課程<br/>
 - 創業 : 整理師 & 社群經營 2006~現在
   - 自學建造整理師創業網站: http://www.organizingwithsandy.com/
-  - 創造1000+粉絲人次、整理相關的小眾臉書粉絲頁: https://www.facebook.com/OrganizingWithSandy</br>
+  - 創造1000+粉絲人次、整理相關的小眾臉書粉絲頁: https://www.facebook.com/OrganizingWithSandy<br/>
 - 癌症研究行政人員 2008~2013
   - 創建、設計、維護 23份、各50+題、來自100+國際受試者回饋的線上問卷。使用Access, Google Workspace
   - 負責部門內部網站的更新 & 管理
   - 協助資料清理而成爲發表在醫學期刊-Pain上文章共同作者  
-  - 就職第一年內晉升專案助理、職責增加，並晉升了兩個薪級</br>
+  - 就職第一年內晉升專案助理、職責增加，並晉升了兩個薪級<br/>
 - 約克大學天文台研究助理 2000~2007
   - 建立、操縱 400+筆變星軌道、火星大氣研究資料庫。使用Excel
   - 因良好的人際溝通技巧而晉升天文台統籌
