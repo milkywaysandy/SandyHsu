@@ -52,7 +52,7 @@ As a consumer, I found that it is very difficult to find exact clothing articles
 - Program Assistant, CE&P, McMaster University 2008~2013
   -  Created, designed, maintained over 23 online surveys with 50 plus questions and 100 plus international responses depending on the demand of the research projects Summarized survey results for other research coordinators as references. Software using: Access & Google Workspace.
   -  Ability to frequently update Intranet (Internal web sources pages) through Adobe Dreamweaver or Contribute or by using SSH Secure Shell and editing HTML code
-  -  Co-author an article on Pain (medical journal) by assistanting on data clearning
+  -  Co-author an article on Pain (medical journal) by assisting on data cleaning
   -  Increased responsibilities as program assistant, resulted in job description re-evaluation, and promoted by two salary grades<br/>
 - York University Observatory Student Coordinator & Research Assistant 2000~2007 
   - Contributed data management skills by independently creating an Excel database to manipulate and maintain over 400 data sets
