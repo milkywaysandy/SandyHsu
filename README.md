@@ -1,6 +1,6 @@
 <center> <h1>歡迎來到許珊綺個人網頁</h1> </center>
 <center> <a href="https://drive.google.com/file/d/1U1NTcyUBllCw-IBESDm3lX_KZZDRUd6O/view?usp=sharing" target="_top">Sandy Hsu's resume（English）</a> 
-<a href="https://drive.google.com/file/d/1YtPkd9ONcCmF69zFmes5mc0fj6HZ786U/view?usp=sharing" target="_top">許珊綺 履歷（中文版）</a><br/>
+<a href="https://drive.google.com/file/d/1LjP9NGXhx3b-6cBaC4QgmjMVldH4NGMB/view?usp=sharing" target="_top">許珊綺 履歷（中文版）</a><br/>
 </center>
 <center>  Email：organizingwithsandy@gmail.com</center>
 <center>  <a href="https://www.linkedin.com/in/sandy-hsu-a2044549/" target="_top">LinkedIn</a></center>
