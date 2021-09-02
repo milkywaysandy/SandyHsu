@@ -81,7 +81,7 @@ As a consumer, I found that it is very difficult to find exact clothing articles
 台灣人工智慧學校 技術領袖班
 - Completed courses of MSc in Health Research Method McMaster University, Canada. 2012 <br/>
 加拿大 麥克馬斯特大學 臨床研究 碩士肄業
-- Bachelor Degree, Specialized Honours in Sociology & Astronomy. York University, Canada. 2007 <br/>
+- Bachelor Degree, Specialized Honours in Sociology & Astronomy. York University, Canada. 2005 <br/>
 加拿大 約克大學 社會學 & 天文系 學士畢業 
 
 <img img align="left" src="https://user-images.githubusercontent.com/63726744/131054316-d8c43f1c-dc69-4d8e-b5e6-cfb803d81a62.jpg" width="100" height="130">
