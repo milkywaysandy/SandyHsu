@@ -64,7 +64,7 @@ As a consumer, I found that it is very difficult to find exact clothing articles
   - AIA 第九期技術領袖班 最佳人氣獎
   - 半年內自學程式語言、機器 & 深度學習
   - 自學 - 吳恩達coursera機器學習課程<br/>
-- 創業 : 整理師 & 社群經營 2006~現在
+- 創業 : 整理師 & 社群經營 2016~現在
   - 自學建造整理師創業網站: <a href="http://www.organizingwithsandy.com/" target="_top">效率媽咪生活網站</a><br/>
   - 創造1000+粉絲人次、整理相關的小眾臉書粉絲頁: <a href="https://www.facebook.com/OrganizingWithSandy" target="_top">@OrganizingWithSandy</a>
 - 癌症研究行政人員 2008~2013
