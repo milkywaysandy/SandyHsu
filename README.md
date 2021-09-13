@@ -10,10 +10,10 @@
 <a href="https://github.com/milkywaysandy/Clothing-Retrieval" target="_top">Link to: Clothing Retrieval Project</a><br/>
 <br/>
 **Purpose:**<br/>
-As a consumer, I found that it is very difficult to find exact clothing articles online due to the limitations of written descriptions and tags. Thus, I tried to use my knowledge of machine learning(CNN) to create an AI system. It aims to help on the shopping experience if adopted by an online merchant. This clothing retrieval system contains two pre-trained models: a semantic segmentation model & ImageNet. The first model is to isolate the clothing items from the background, while the second model turns the clothing image into feature vectors. Finally, we use closest euclidean distance of the vectors to decide which items are to be presented to the user. Finally, using Flask, Docker to communicate via line bot to create an excellent user experience.<br/>
+As a consumer, I found that it is very difficult to find exact clothing articles online due to the limitations of written descriptions and tags. Thus, I tried to use my knowledge of machine learning(CNN) to create an AI system， which aims to help on the shopping experience if adopted by an online merchant. The system works as follows: when a user input a clothing article image into this AI system, the system will retrieve 5 similar clothing images from the adopted merchant database.This clothing retrieval system contains two pre-trained models: a semantic segmentation model & ImageNet. The first model is to isolate the clothing items from the background, while the second model turns the clothing image into feature vectors. Finally, we use closest euclidean distance of the vectors to decide which items are to be presented to the user. Finally, using Flask, Docker to communicate via line bot to create an excellent user experience.<br/>
 <br/>
 **目的:**<br/>
-對于喜歡網購衣服的我，常常因爲文字限制，很難精準的在電商所引裡找到我想要的衣服。所以，我用卷積神經網路做成一個檢索系統，希望成爲電商的一部份，而增進更好的購物體驗。這個系統使用兩個模型，semantic segmentation model & ImageNet。第一個模型旨在去除背景留下衣服。第二個模型旨在轉換影像成爲特徵截取。然後，使用使用者照片跟電商商品資料庫裡最近的歐式距離，來決定最相似的推薦衣服。最後，以line做爲使用者介面。<br/>
+對于喜歡網購衣服的我，常常因爲文字限制，很難精準的在電商所引裡找到我想要的衣服。所以，我們用卷積神經網路做成一個檢索系統: 當使用者輸入一張衣服照片，我們的系統會從電商商品資料庫檢索出5張類似圖檔。這個系統使用兩個模型，semantic segmentation model & ImageNet。第一個模型旨在去除背景留下衣服。第二個模型旨在轉換影像成爲特徵截取。然後，使用使用者照片跟電商商品資料庫裡最近的歐式距離，來決定最相似的推薦衣服。最後，以line做爲使用者介面。<br/>
 
 <div class="embed-container">
   <iframe
@@ -40,10 +40,11 @@ As a consumer, I found that it is very difficult to find exact clothing articles
 
 # Work Experience 
 - Data Engineering Immersive (Student) 2020~current 
+  -  Attended Taiwan AI Academy Technical Professional Program for application of Machine Learning (Regression, CNN, DNN, Classification)
+  -  Self-taught python, mySQL, Web Scraping in a half year 
+  -  Self-taught Machine Learning course by Andrew Ng, Stanford from coursera
   -  Ranked first in AIA Technical Professional Program project competition
-  -  Won Best Poster for AIA Technical Professional Program project competition 
-  -  Self-taught python, SQL, Machine Learning in eight months 
-  -  Self-taught Machine Learning by Andrew Ng, Stanford from coursera<br/>
+  -  Won Best Poster for AIA Technical Professional Program project competition<br/>
 - Entrepreneur, Professional Organizer & Social Media Strategist 2016~current
   -  Self-taught and built a professional website for my professional organizing business
 <a href="http://www.organizingwithsandy.com/" target="_top">Organizing With Sandy Web Page</a>
@@ -60,10 +61,11 @@ As a consumer, I found that it is very difficult to find exact clothing articles
 
 # 工作經驗
 - 資料工程學生 2020~現在
+  - 自台灣人工智慧學校-技術領袖班裡學習應用-機器 & 深度學習 （Regression, CNN, DNN, Classification)
+  - 半年內自學程式語言： Python, mySQL, Web Scraping
+  - 自學 - 吳恩達coursera機器學習課程
   - AIA 第九期技術領袖班 專題競賽第一名
-  - AIA 第九期技術領袖班 最佳人氣獎
-  - 半年內自學程式語言、機器 & 深度學習
-  - 自學 - 吳恩達coursera機器學習課程<br/>
+  - AIA 第九期技術領袖班 最佳人氣獎<br/>
 - 創業 : 整理師 & 社群經營 2016~現在
   - 自學建造整理師創業網站: <a href="http://www.organizingwithsandy.com/" target="_top">效率媽咪生活網站</a><br/>
   - 創造1000+粉絲人次、整理相關的小眾臉書粉絲頁: <a href="https://www.facebook.com/OrganizingWithSandy" target="_top">@OrganizingWithSandy</a>
@@ -87,5 +89,5 @@ As a consumer, I found that it is very difficult to find exact clothing articles
 <img img align="left" src="https://user-images.githubusercontent.com/63726744/131054316-d8c43f1c-dc69-4d8e-b5e6-cfb803d81a62.jpg" width="100" height="130">
 <br/> 
 In my 
-spare time, I love to cook, makes food photo graphs, and play with my two lovely girls.<br/>
+spare time, I love to cook, makes food photographs, and play with my two lovely girls.<br/>
 休閒時，我喜歡做菜、食物攝影、和陪伴我的兩個女兒。
