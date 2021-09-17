@@ -40,6 +40,8 @@ As a consumer, I found that it is very difficult to find exact clothing articles
 
 # Work Experience 
 - Data Engineering Immersive (Student) 2020~current 
+  -  Proposed and led a CNN based project on clothing retrieval system: when input a clothing image into the system, it retrieves 5 images with similar attributes from the adopted database
+  -  Experienced in data processing and modeling with libraries including pandas, scikit-learn and other statistical/machine learning libraries in Python from Kaggle challenges
   -  Attended Taiwan AI Academy Technical Professional Program for application of Machine Learning (Regression, CNN, DNN, Classification)
   -  Self-taught python, mySQL, Web Scraping in a half year 
   -  Self-taught Machine Learning course by Andrew Ng, Stanford from coursera
