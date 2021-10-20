@@ -63,11 +63,10 @@ As a consumer, I found that it is very difficult to find exact clothing articles
 
 # 工作經驗
 - 資料工程學生 2020~現在
-  - 自台灣人工智慧學校-技術領袖班裡學習應用-機器 & 深度學習 （Regression, CNN, DNN, Classification)
-  - 半年內自學程式語言： Python, mySQL, Web Scraping
-  - 自學 - 吳恩達coursera機器學習課程
-  - AIA 第九期技術領袖班 專題競賽第一名
-  - AIA 第九期技術領袖班 最佳人氣獎<br/>
+  - 領導自提專案-AI造型師，使用Pyhton、影像處理、兩個Tensorflow卷積神經網路-CNN(semantic segmentation & RestNet)系通的專案，成功帶領4位成員得到AIA 第九期技術領袖班 專題競賽第一名 & 最佳人氣獎。
+  - 熟悉應用機器學習與深度學習理論基礎; 五次Kaggle比賽經驗: 使用演算法含Regression, CNN, DNN, Classification, Facial Recognition, Sci_kit Learn。
+  - 自學程式語言： Python, mySQL, 爬蟲, MatLab, Linux, Git。
+  - 自學結業於吳恩達機器學習課程(Machine Learning by Andrew Ng from Coursera)<br/>
 - 創業 : 整理師 & 社群經營 2016~現在
   - 自學建造整理師創業網站: <a href="http://www.organizingwithsandy.com/" target="_top">效率媽咪生活網站</a><br/>
   - 創造1000+粉絲人次、整理相關的小眾臉書粉絲頁: <a href="https://www.facebook.com/OrganizingWithSandy" target="_top">@OrganizingWithSandy</a>
