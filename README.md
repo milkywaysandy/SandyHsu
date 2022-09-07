@@ -70,6 +70,7 @@ analysis in chinese。<br/>
 - Entrepreneur, Professional Organizer & Social Media Strategist 2016~current
   -  Self-taught and built a professional website for my professional organizing business
 <a href="http://www.organizingwithsandy.com/" target="_top">Organizing With Sandy Web Page</a>
+  -  Used A/B Testing to improve the website traffic
   -  Created a 1000+ members on facebook niche page for my professional organizing business
 <a href="https://www.facebook.com/OrganizingWithSandy" target="_top">@OrganizingWithSandy</a>
 - Program Assistant, CE&P, McMaster University 2008~2013
@@ -96,6 +97,7 @@ analysis in chinese。<br/>
   - 自學結業於吳恩達機器學習課程(Machine Learning by Andrew Ng from Coursera)<br/>
 - 創業 : 整理師 & 社群經營 2016~現在
   - 自學建造整理師創業網站: <a href="http://www.organizingwithsandy.com/" target="_top">效率媽咪生活網站</a><br/>
+  - 製作實驗型頁面（A/B Testing) 增加創業網站之流量
   - 創造1000+粉絲人次、整理相關的小眾臉書粉絲頁: <a href="https://www.facebook.com/OrganizingWithSandy" target="_top">@OrganizingWithSandy</a>
 - 癌症研究行政人員 2008~2013
   - 創建、設計、維護 23份、各50+題、來自100+國際受試者回饋的線上問卷。<br/>使用Access, Google Workspace
@@ -107,6 +109,8 @@ analysis in chinese。<br/>
   - 因良好的人際溝通技巧而晉升天文台統籌
 
 # Education 學歷
+- Google Data Analytics Professional Certificate. 2022 <br/>
+谷歌專業證書 數據分析師
 - Taiwan AI Academy Technical Professional Program, Taiwan. 2021 <br/>
 台灣人工智慧學校 技術領袖班
 - Completed courses of MSc in Health Research Method McMaster University, Canada. 2012 <br/>
