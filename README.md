@@ -24,7 +24,9 @@ As a consumer, I found that it is very difficult to find exact clothing articles
       allowfullscreen="">
   </iframe>
 </div>
+<br/>
 
+</div>
 <a href="https://github.com/milkywaysandy/BellaBeat" target="_top">Link to: Data Analysis & Visualization Project</a><br/>
 <br/>
 **Purpose:**<br/>
