@@ -26,7 +26,8 @@ As a consumer, I found that it is very difficult to find exact clothing articles
 </div>
 <br/>
 
-</div>
+******************************************<br/>
+
 <a href="https://github.com/milkywaysandy/BellaBeat" target="_top">Link to: Data Analysis & Visualization Project</a><br/>
 <br/>
 **Purpose:**<br/>
