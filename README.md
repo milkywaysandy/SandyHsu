@@ -36,8 +36,8 @@ This is a capstone project from Google Data Analytics Professional Certificate. 
 **目的:**<br/>
 作為一名在 Bellabeat 營銷分析師團隊工作的數據分析師，Bellabeat 是一家為女性提供健康產品的高科技製造商。 Bellabeat 是一家成功的小公司，但他們有潛力成為全球智能設備市場中更大參與者。通過專注於 BellaBeat Leaf 並分析智能設備數據以深入了解消費者如何使用他們的智能設備，這些見解將有助於公司的營銷策略。<br/>
 
-<img width="715" alt="number visual graph" src="https://user-images.githubusercontent.com/63726744/188815597-345e0578-bd64-46de-a62e-ed0c6a5c9d06.png">
-<img width="706" alt="bar visual graph" src="https://user-images.githubusercontent.com/63726744/188815771-41074dc6-afbc-4ec3-b427-0ea2ffecc2fc.png">
+<img width="515" alt="number visual graph" src="https://user-images.githubusercontent.com/63726744/188815597-345e0578-bd64-46de-a62e-ed0c6a5c9d06.png">
+<img width="506" alt="bar visual graph" src="https://user-images.githubusercontent.com/63726744/188815771-41074dc6-afbc-4ec3-b427-0ea2ffecc2fc.png">
 
 
 # Coding Skill & Application 程式能力 & 應用程式
