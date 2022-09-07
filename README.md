@@ -26,12 +26,12 @@ As a consumer, I found that it is very difficult to find exact clothing articles
 </div>
 <br/>
 
-******************************************<br/>
+*****************************************************************************************************************************************************<br/>
 
 <a href="https://github.com/milkywaysandy/BellaBeat" target="_top">Link to: Data Analysis & Visualization Project</a><br/>
 <br/>
 **Purpose:**<br/>
-analysis in english.<br/>
+As a data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the global smart device market.  By focus on BellaBeat Leaf and analyze smart device data to gain insight into how consumers are using their smart devices, these insights will help guide marketing strategy for the company. <br/>
 <br/>
 **目的:**<br/>
 analysis in chinese。<br/>
