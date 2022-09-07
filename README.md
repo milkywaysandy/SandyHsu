@@ -25,21 +25,38 @@ As a consumer, I found that it is very difficult to find exact clothing articles
   </iframe>
 </div>
 
+<a href="https://github.com/milkywaysandy/BellaBeat" target="_top">Link to: Data Analysis & Visualization Project</a><br/>
+<br/>
+**Purpose:**<br/>
+analysis in english.<br/>
+<br/>
+**目的:**<br/>
+analysis in chinese。<br/>
 
 # Coding Skill & Application 程式能力 & 應用程式
-- Git
 - python
+- SQL / BigQuery
+- R
+- Tableau
 - MatLab
-- MySQL
-- web crawler
+- Scikit-learn / Tensorflow / Pytorch
 - Machine Learning & Deep Learning
+- Git
 - HTML
+- web crawler
 - Facebook API
 - Google Analytics
 - Google Search Console
 
 # Work Experience 
-- Data Engineering Immersive (Student) 2020~current 
+- Data Scientist / RA, Stem Cell Research Centre - YangMing University 2021~2022
+  - Developed a machine learning model to predict the patient with high blood pressure as an adverse event in real-time during Hemodialysis Therapy with the result of 0.88 as the area under curve.
+  - Standardized the data cleaning procedure and perfumed the procedure with Excel on the backtesting data.
+  - Improved data cleaning strategies as part of ELT data pipeline for the upcoming clinical validation trial.
+  - Converted the feature engineering class of 25 subroutines into python for 84 designed features within two working weeks.
+  - Optimized the machine learning prediction model based on scikit-learn framework.
+  - Designed the code package that included the feature engineering and the machine learning algorithm for model deployment.
+- Data Engineering Immersive (Student) 2020~2021 
   -  Proposed and led a CNN based project on clothing retrieval system: when input a clothing image into the system, it retrieves 5 images with similar attributes from the adopted database
   -  Experienced in data processing and modeling with libraries including pandas, scikit-learn and other statistical/machine learning libraries in Python from Kaggle challenges
   -  Attended Taiwan AI Academy Technical Professional Program for application of Machine Learning (Regression, CNN, DNN, Classification)
@@ -62,7 +79,14 @@ As a consumer, I found that it is very difficult to find exact clothing articles
   - Promoted to Observatory Coordinator based on exceptional interpersonal skills with colleagues and outstanding communication skills with the public
 
 # 工作經驗
-- 資料工程學生 2020~現在
+- 資料科學家 /  幹細胞研究中心研究助理  - 陽明交通大學 2021~2022
+  - 使用機器學習模型預測血液透析療程中高血壓之不良事件，及時預測模型結果高達AUC 0.88。
+  - 規範使用Excel為未來數據清洗流程、獨力完成及時預測測試數據清洗。
+  - 優化數據清理策略，作為臨床驗證試驗中ELT數據管線系統的一部分。
+  - 於兩個工作週內，將25個特徵工程的子程序轉換為python語言，此為機器學習模型運算中所用之84個設計特徵。
+  - 使用scikit-learn框架優化機器學習預測模型
+  - 設計包括特徵工程的和機器學習模型的代碼包，為來將使用於APP開發。
+- 資料工程學生 2020~2021
   - 領導自提專案-AI造型師，使用Pyhton、影像處理、兩個Tensorflow卷積神經網路-CNN(semantic segmentation & RestNet)系通的專案，成功帶領4位成員得到AIA 第九期技術領袖班 專題競賽第一名 & 最佳人氣獎。
   - 熟悉應用機器學習與深度學習理論基礎; 五次Kaggle比賽經驗: 使用演算法含Regression, CNN, DNN, Classification, Facial Recognition, Sci_kit Learn。
   - 自學程式語言： Python, mySQL, 爬蟲, MatLab, Linux, Git。
