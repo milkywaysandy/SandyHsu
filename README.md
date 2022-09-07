@@ -34,7 +34,7 @@ As a consumer, I found that it is very difficult to find exact clothing articles
 This is a capstone project from Google Data Analytics Professional Certificate. As a data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the global smart device market.  By focus on BellaBeat Leaf and analyze smart device data to gain insight into how consumers are using their smart devices, these insights will help guide marketing strategy for the company. <br/>
 <br/>
 **目的:**<br/>
-作為一名在 Bellabeat 營銷分析師團隊工作的數據分析師，Bellabeat 是一家為女性提供健康產品的高科技製造商。 Bellabeat 是一家成功的小公司，但他們有潛力成為全球智能設備市場中更大參與者。通過專注於 BellaBeat Leaf 並分析智能設備數據以深入了解消費者如何使用他們的智能設備，這些見解將有助於公司的營銷策略。<br/>
+此為 Google 數據分析專業證書之總整專題。作為一名在 Bellabeat 營銷分析師團隊工作的數據分析師，Bellabeat 是一家為女性提供健康產品的高科技製造商。 Bellabeat 是一家成功的小公司，但他們有潛力成為全球智能設備市場中更大參與者。通過專注於 BellaBeat Leaf 並分析智能設備數據以深入了解消費者如何使用他們的智能設備，這些見解將有助於公司的營銷策略。<br/>
 
 <img width="415" alt="number visual graph" src="https://user-images.githubusercontent.com/63726744/188815597-345e0578-bd64-46de-a62e-ed0c6a5c9d06.png">
 <img width="406" alt="bar visual graph" src="https://user-images.githubusercontent.com/63726744/188815771-41074dc6-afbc-4ec3-b427-0ea2ffecc2fc.png">
