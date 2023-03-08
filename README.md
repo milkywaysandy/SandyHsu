@@ -7,9 +7,11 @@
 <center>  <a href="https://github.com/milkywaysandy" target="_top">GitHub</a></center>
 
 # Project 代表作
+** 電商 AI 服裝推薦系統**  </center>
+<br/>
 <a href="https://github.com/milkywaysandy/Clothing-Retrieval" target="_top">Link to: Clothing Retrieval Project</a><br/>
 <br/>
-** 電商 AI 服裝推薦系統**  </center><br/>
+
 **Purpose:**<br/>
 As a consumer, I found that it is very difficult to find exact clothing articles online due to the limitations of written descriptions and tags. Thus, I tried to use my knowledge of machine learning(CNN) to create an AI system， which aims to help on the shopping experience if adopted by an online merchant. The system works as follows: when a user input a clothing article image into this AI system, the system will retrieve 5 similar clothing images from the adopted merchant database.This clothing retrieval system contains two pre-trained models: a semantic segmentation model & ImageNet. The first model is to isolate the clothing items from the background, while the second model turns the clothing image into feature vectors. Finally, we use closest euclidean distance of the vectors to decide which items are to be presented to the user. Finally, using Flask, Docker to communicate via line bot to create an excellent user experience.<br/>
 <br/>
