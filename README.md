@@ -11,7 +11,6 @@
 <br/>
 <a href="https://github.com/milkywaysandy/Clothing-Retrieval" target="_top">Link to: Clothing Retrieval Project</a><br/>
 <br/>
-
 **Purpose:**<br/>
 As a consumer, I found that it is very difficult to find exact clothing articles online due to the limitations of written descriptions and tags. Thus, I tried to use my knowledge of machine learning(CNN) to create an AI system， which aims to help on the shopping experience if adopted by an online merchant. The system works as follows: when a user input a clothing article image into this AI system, the system will retrieve 5 similar clothing images from the adopted merchant database.This clothing retrieval system contains two pre-trained models: a semantic segmentation model & ImageNet. The first model is to isolate the clothing items from the background, while the second model turns the clothing image into feature vectors. Finally, we use closest euclidean distance of the vectors to decide which items are to be presented to the user. Finally, using Flask, Docker to communicate via line bot to create an excellent user experience.<br/>
 <br/>
@@ -29,8 +28,8 @@ As a consumer, I found that it is very difficult to find exact clothing articles
 </div>
 <br/>
 
-****************************************************************************************************************************************************<br/>
-
+********************************************************************************************************<br/>
+** 健身手環專案 - 對手用戶使用分析**  </center><br/>
 <a href="https://github.com/milkywaysandy/BellaBeat" target="_top">Link to: Data Analysis & Visualization Project</a><br/>
 <br/>
 **Purpose:**<br/>
@@ -52,20 +51,20 @@ This is a capstone project from Google Data Analytics Professional Certificate. 
 - Scikit-learn / Tensorflow / Pytorch
 - Machine Learning & Deep Learning
 - Git
-- HTML
-- web crawler
-- Facebook API
-- Google Analytics
-- Google Search Console
 
 # Work Experience 
-- Data Scientist / RA, Stem Cell Research Centre - YangMing University 2021~2022
-  - Developed a machine learning model to predict the patient with high blood pressure as an adverse event in real-time during Hemodialysis Therapy with the result of 0.88 as the area under curve.
-  - Standardized the data cleaning procedure and perfumed the procedure with Excel on the backtesting data.
-  - Improved data cleaning strategies as part of ELT data pipeline for the upcoming clinical validation trial.
-  - Converted the feature engineering class of 25 subroutines into python for 84 designed features within two working weeks.
-  - Optimized the machine learning prediction model based on scikit-learn framework.
-  - Designed the code package that included the feature engineering and the machine learning algorithm for model deployment.
+- Career Development - April 2022~Currently 
+  - SQL/R/BigQuery/Looker/Excel/Tableau skills: Complete the Google Data Analytics Certificate within the recommended time period. The certificate strengthens the skills of dataset manipulation during the initial stage of the project and increases programming language skills and toolset. 
+  - Data visualization/Data Mining: Use R language to complete a self-selected project. Project included data processing, analysis, and visualization - BellaBeat opponent user usage analysis. 
+  - Product data analysis: Self-motivated to complete the Hahow course and increased the capability of data analysis to industry standards.
+
+- AI Engineer - Yang-Ming International Smart Healthcare Technologies INC 2021~2022
+  - Machine Learning Development: Generated promising results and convinced the team to migrate from Microsoft Azure to in-house Scikit-Learning framework as a financial benefit of the APP
+Data analysis & modeling
+  - Model Training / Tuning / Optimization: Developed a machine learning model of Two-Class Averaged Perceptron to predict the patients with high blood pressure as an adverse event during hemodialysis
+  - Real-Time Simulation: Simulated real-time data stream through the model package with the result of 0.88 as the area under curve, which is the same accuracy as that of the static data model prediction
+  - Big Data Processing: Analyze 4,000 treatment sessions, 80,000 time points, 16 types of kidney dialysis machine values, predicted the characteristics of the data in a timely manner, standardize the use of Python, Excel & Google Cloud for the future data cleaning process, and complete the timely predictive test data cleaning independently.
+  - Python Skill: Converted the feature engineering of 25 subroutines into python from AWK with pandas and NumPy packages for 84 designed features within two working weeks.
 - Data Engineering Immersive (Student) 2020~2021 
   -  Proposed and led a CNN based project on clothing retrieval system: when input a clothing image into the system, it retrieves 5 images with similar attributes from the adopted database
   -  Experienced in data processing and modeling with libraries including pandas, scikit-learn and other statistical/machine learning libraries in Python from Kaggle challenges
@@ -74,12 +73,10 @@ This is a capstone project from Google Data Analytics Professional Certificate. 
   -  Self-taught Machine Learning course by Andrew Ng, Stanford from coursera
   -  Ranked first in AIA Technical Professional Program project competition
   -  Won Best Poster for AIA Technical Professional Program project competition<br/>
-- Entrepreneur, Professional Organizer & Social Media Strategist 2016~current
-  -  Self-taught and built a professional website for my professional organizing business
-<a href="http://www.organizingwithsandy.com/" target="_top">Organizing With Sandy Web Page</a>
-  -  Used A/B Testing to improve the website traffic
-  -  Created a 1000+ members on facebook niche page for my professional organizing business
-<a href="https://www.facebook.com/OrganizingWithSandy" target="_top">@OrganizingWithSandy</a>
+- Social Media Strategist & Professional Organizer  2016~2021
+  -  Needs Analysis: Researched market trends, collected competitor information, monitored and analyzed data from various social media platforms. Data mining and data analysis from Google Analytics and Facebook Insights, understanding audience preferences, customized posts & blog articles, resulted in a 300% increase in engagement rate during the first three months.
+  -  Team Work: Planned and executed the promotional events and the clients’ large projects with an 8-person team. The in-person promotion events successfully exceeded audience capacity.
+  -  <a href="https://www.facebook.com/OrganizingWithSandy" target="_top">@OrganizingWithSandy</a>
 - Program Assistant, CE&P, McMaster University 2008~2013
   -  Created, designed, maintained over 23 online surveys with 50 plus questions and 100 plus international responses depending on the demand of the research projects Summarized survey results for other research coordinators as references. <br/>Software using: Access & Google Workspace.
   -  Ability to frequently update Intranet (Internal web sources pages) through Adobe Dreamweaver or Contribute or by using SSH Secure Shell and editing HTML code
@@ -90,28 +87,26 @@ This is a capstone project from Google Data Analytics Professional Certificate. 
   - Promoted to Observatory Coordinator based on exceptional interpersonal skills with colleagues and outstanding communication skills with the public
 
 # 工作經驗
-- 資料科學家 /  幹細胞研究中心研究助理  - 陽明交通大學 2021~2022
+- AI 職業發展進修		2022/04～目前
+  - SQL/BigQuery/Looker/Excel/Tableau 技能：在短於建議學習時程完成 Google Data Analytic Certificate, 強化對專案初期截取資料之技能、增加可使用語言及工具集。
+  - 資料挖掘：使用R語言從資料處理、分析、可視化完成自選健身手環專案 - BellaBeat 對手用戶使用分析。
+  - 產品數據分析: 自學完成好學校課程， 增加對數據分析之理解能力和對資料敏感性。
+- AI 工程師 		陽明智慧樂齡國際生醫科技股份有限公司 2021~2022
   - 使用機器學習模型預測血液透析療程中高血壓之不良事件，及時預測模型結果高達AUC 0.88。
   - 規範使用Excel為未來數據清洗流程、獨力完成及時預測測試數據清洗。
   - 優化數據清理策略，作為臨床驗證試驗中ELT數據管線系統的一部分。
   - 於兩個工作週內，將25個特徵工程的子程序轉換為python語言，此為機器學習模型運算中所用之84個設計特徵。
   - 使用scikit-learn框架優化機器學習預測模型
   - 設計包括特徵工程的和機器學習模型的代碼包，為來將使用於APP開發。
-- 資料工程學生 2020~2021
-  - 領導自提專案-AI造型師，使用Pyhton、影像處理、兩個Tensorflow卷積神經網路-CNN(semantic segmentation & RestNet)系通的專案，成功帶領4位成員得到AIA 第九期技術領袖班 專題競賽第一名 & 最佳人氣獎。
-  - 熟悉應用機器學習與深度學習理論基礎; 五次Kaggle比賽經驗: 使用演算法含Regression, CNN, DNN, Classification, Facial Recognition, Sci_kit Learn。
-  - 自學程式語言： Python, mySQL, 爬蟲, MatLab, Linux, Git。
-  - 自學結業於吳恩達機器學習課程(Machine Learning by Andrew Ng from Coursera)<br/>
-- 創業 : 整理師 & 社群經營 2016~現在
-  - 自學建造整理師創業網站: <a href="http://www.organizingwithsandy.com/" target="_top">效率媽咪生活網站</a><br/>
-  - 製作實驗型頁面（A/B Testing) 增加創業網站之流量
-  - 創造1000+粉絲人次、整理相關的小眾臉書粉絲頁: <a href="https://www.facebook.com/OrganizingWithSandy" target="_top">@OrganizingWithSandy</a>
-- 癌症研究行政人員 2008~2013
+- 社群經營 & 整理師 效率媽咪生活.com 2016~2021
+  - 需求分析：研究市場趨勢、收集競爭對手數據、監控分析來自各社交媒體平台的數據，例Google Analytics 和 Facebook Insights 的數據挖掘和數據分析、了解受眾偏好、客制貼文和部落格文使前三個月的互動率提高300%。
+  - 團隊合作：與8人團隊一起策劃促銷活動和客戶的大型工作、完售2日80人見面會/工坊門票。
+- 癌症研究行政人員 McMaster University 2008~2013
+  - 統計學知識：獨立完成系統化文獻回顧跟統合分析，用於更新安大略省癌症鼻咽癌治療指南
+  - 大數據處理：清洗3000多筆Opioid藥物文獻數據，刊登於四本醫學同行評審期刊，包括JAMA。
   - 創建、設計、維護 23份、各50+題、來自100+國際受試者回饋的線上問卷。<br/>使用Access, Google Workspace
-  - 負責部門內部網站的更新 & 管理
-  - 協助資料清理而成爲發表在醫學期刊-Pain上文章共同作者  
   - 就職第一年內晉升專案助理、職責增加，並晉升了兩個薪級<br/>
-- 約克大學天文台研究助理 2000~2007
+- 約克大學天文台研究助理 York University 2000~2007
   - 建立、操縱 400+筆變星軌道、火星大氣研究資料庫。使用Excel
   - 因良好的人際溝通技巧而晉升天文台統籌
 
@@ -129,4 +124,4 @@ This is a capstone project from Google Data Analytics Professional Certificate. 
 <br/> 
 In my 
 spare time, I love to cook, makes food photographs, and play with my two lovely girls.<br/>
-休閒時，我喜歡做菜、食物攝影、和陪伴我的兩個女兒。
+休閒時，我喜歡做菜、食物攝影、和慢跑。
