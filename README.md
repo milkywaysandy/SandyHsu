@@ -63,7 +63,7 @@ This is a capstone project from Google Data Analytics Professional Certificate. 
   - Standardized 170,000 semi-structured ECG records from NTUH, resolving fragmented text fields for downstream database integration and analytics.
   - Built and evaluated 4 clinical classification ML models from scratch using scikit-learn to predict cardiotoxicity/heart failure in lung cancer patients; benchmarked 6 machine learning algorithms and selected Random Forest as the production model based on optimal precision-recall metrics.
   - Led and mentored a data science intern through the end-to-end prototyping lifecycle, delivering a successful stakeholder demo that is currently under technical evaluation for integration into the core NTUH system.
-- Career Development - April 2022 ~ April 2023
+- Career Development - April 2022 ~ March 2023
   - SQL/R/BigQuery/Looker/Excel/Tableau skills: Complete the Google Data Analytics Certificate within the recommended time period. The certificate strengthens the skills of dataset manipulation during the initial stage of the project and increases programming language skills and toolset. 
   - Data visualization/Data Mining: Use R language to complete a self-selected project. Project included data processing, analysis, and visualization - BellaBeat opponent user usage analysis. 
   - Product data analysis: Self-motivated to complete the Hahow course and increased the capability of data analysis to industry standards.
@@ -100,14 +100,14 @@ Big Data Processing: Assisted in the opioid research project. Involved with 3000
 - 台大藥學院 研究專員/資料科學 -	2023/04～目前
   - 使用 Gemini 嵌入模型（embeddings）、FAISS 與 Streamlit 打造臨床檢索增強生成（RAG）原型系統，支援醫師與藥師查詢台灣食藥署（TFDA）仿單。
   - 以 Python 從零開始自主開發客製化架構（不使用 LangChain框架），藉此基準測試（benchmark）多種資料切塊（chunking）策略，並針對 1,800 份藥品仿單進行全文、150 字詞視窗（token windows）及依章節解析之文件處理，進而優化檢索時的上下文內容。
- - 注重臨床可解釋性與安全防護機制，依據醫師與藥師的可行性回饋，實作 Top-k 檢索技術將得分最高的 6 個文本切塊（text chunks）注入大語言模型（LLM）的上下文視窗中，並提供並排對照畫面以供參考。
- - 運用 SQLite 建構結構化 RAG 管線以查詢並檢索在地化的院內內部問答（QA）資料集，並將結構化上下文傳遞給本地端 LLM，將複雜的資料庫查詢轉化為適合醫療人員閱讀的連貫解答。
- - 利用 Python、Ollama 與 Llama 3.1 8B 部署在地化且與外網隔離（air-gapped）的大語言模型系統，以支援具安全性隱私保障的電子病歷（EHR）檢索與臨床文件分析。
- - 運用 LLM 提示詞工程、JSON Schema 輸出格式、NLTK、n-gram 分析及正規表示式（RegEx）開發自然語言處理（NLP）管線，用以分析心臟超音波（ECHO）與心電圖（ECG）報告並萃取出結構化的臨床資訊。
- - 標準化台大醫院（NTUH）170,000 筆半結構化心電圖（ECG）紀錄，解決文字欄位破碎零散的問題，以利後續的資料庫整合與數據分析。
- - 使用 scikit-learn 從零開始建立並評估 4 種臨床機器學習分類模型，用以預測肺癌患者的心臟毒性與心臟衰竭風險；基準測試了 6 種機器學習演算法，並依據最佳的精準率-召回率（Precision-Recall）指標選擇「隨機森林」（Random Forest）作為最終的上線生產模型。
- - 帶領並指導資料科學實習生完成端到端（end-to-end）的原型開發生命週期，並成功向利害關係人進行成果展示（Demo）。
-- AI 職業發展進修	-	2022/04～目前
+  - 注重臨床可解釋性與安全防護機制，依據醫師與藥師的可行性回饋，實作 Top-k 檢索技術將得分最高的 6 個文本切塊（text chunks）注入大語言模型（LLM）的上下文視窗中，並提供並排對照畫面以供參考。
+  - 運用 SQLite 建構結構化 RAG 管線以查詢並檢索在地化的院內內部問答（QA）資料集，並將結構化上下文傳遞給本地端 LLM，將複雜的資料庫查詢轉化為適合醫療人員閱讀的連貫解答。
+  - 利用 Python、Ollama 與 Llama 3.1 8B 部署在地化且與外網隔離（air-gapped）的大語言模型系統，以支援具安全性隱私保障的電子病歷（EHR）檢索與臨床文件分析。
+  - 運用 LLM 提示詞工程、JSON Schema 輸出格式、NLTK、n-gram 分析及正規表示式（RegEx）開發自然語言處理（NLP）管線，用以分析心臟超音波（ECHO）與心電圖（ECG）報告並萃取出結構化的臨床資訊。
+  - 標準化台大醫院（NTUH）170,000 筆半結構化心電圖（ECG）紀錄，解決文字欄位破碎零散的問題，以利後續的資料庫整合與數據分析。
+  - 使用 scikit-learn 從零開始建立並評估 4 種臨床機器學習分類模型，用以預測肺癌患者的心臟毒性與心臟衰竭風險；基準測試了 6 種機器學習演算法，並依據最佳的精準率-召回率（Precision-Recall）指標選擇「隨機森林」（Random Forest）作為最終的上線生產模型。
+  - 帶領並指導資料科學實習生完成端到端（end-to-end）的原型開發生命週期，並成功向利害關係人進行成果展示（Demo）。
+- AI 職業發展進修	-	2022/04～2023/03
   - SQL/BigQuery/Looker/Excel/Tableau 技能：在短於建議學習時程完成 Google Data Analytic Certificate, 強化對專案初期截取資料之技能、增加可使用語言及工具集。
   - 資料挖掘：使用R語言從資料處理、分析、可視化完成自選健身手環專案 - BellaBeat 對手用戶使用分析。
   - 產品數據分析: 自學完成好學校課程， 增加對數據分析之理解能力和對資料敏感性。
@@ -121,7 +121,7 @@ Big Data Processing: Assisted in the opioid research project. Involved with 3000
 - 社群經營 & 整理師 - 效率媽咪生活.com 2016~2021
   - 需求分析：研究市場趨勢、收集競爭對手數據、監控分析來自各社交媒體平台的數據，例Google Analytics 和 Facebook Insights 的數據挖掘和數據分析、了解受眾偏好、客制貼文和部落格文使前三個月的互動率提高300%。
   - 團隊合作：與8人團隊一起策劃促銷活動和客戶的大型工作、完售2日80人見面會/工坊門票。
-- 癌症研究行政人員 - McMaster University 2008~2013
+- 癌症研究行政人員 - McMaster University 2008~2016
   - 統計學知識：獨立完成系統化文獻回顧跟統合分析，用於更新安大略省癌症鼻咽癌治療指南
   - 大數據處理：清洗3000多筆Opioid藥物文獻數據，刊登於四本醫學同行評審期刊，包括JAMA。
   - 創建、設計、維護 23份、各50+題、來自100+國際受試者回饋的線上問卷。<br/>使用Access, Google Workspace
