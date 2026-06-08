@@ -53,7 +53,17 @@ This is a capstone project from Google Data Analytics Professional Certificate. 
 - Git
 
 # Work Experience 
-- Career Development - April 2022~Currently 
+- Data scientist/Research Associate - April 2023 ~ present
+  - Built a clinical RAG prototype using Gemini embeddings, FAISS, and Streamlit to support Taiwan-FDA drug insert search for physicians and pharmacists; prototype is being evaluated for integration into the NTUH hospital system.
+  - Engineered a custom layer from scratch in Python (bypassing LangChain) to benchmark diverse data chunking strategies, optimizing retrieval context across full-text, 150-word token windows, and section-based document parsing with 1800 drug inserts documents.
+  - Prioritized clinical explainability and safety guardrails by implementing a top-k retrieval injecting the top 6 highest-scoring text chunks into the LLM context window and displaying the chunks side-by-side as reference based on feasibility feedback from physicians and pharmacists.
+  - Built a structured RAG pipeline utilizing SQLite to query and retrieve localized internal QA datasets, passing the structured context to the local LLM to synthesize complex database lookups into coherence answers for medical personnel.
+  - Built a localized, air-gapped LLM system using Python, Ollama, and Llama 3.1 8B to support secure EHR retrieval and clinical document analysis.
+  - Developed NLP pipelines for ECHO and ECG reports using LLM prompting, JSON schema outputs, NLTK, n-gram analysis, and RegEx to extract structured clinical information.
+  - Standardized 170,000 semi-structured ECG records from NTUH, resolving fragmented text fields for downstream database integration and analytics.
+  - Built and evaluated 4 clinical classification ML models from scratch using scikit-learn to predict cardiotoxicity/heart failure in lung cancer patients; benchmarked 6 machine learning algorithms and selected Random Forest as the production model based on optimal precision-recall metrics.
+  - Led and mentored a data science intern through the end-to-end prototyping lifecycle, delivering a successful stakeholder demo that is currently under technical evaluation for integration into the core NTUH system.
+- Career Development - April 2022 ~ April 2023
   - SQL/R/BigQuery/Looker/Excel/Tableau skills: Complete the Google Data Analytics Certificate within the recommended time period. The certificate strengthens the skills of dataset manipulation during the initial stage of the project and increases programming language skills and toolset. 
   - Data visualization/Data Mining: Use R language to complete a self-selected project. Project included data processing, analysis, and visualization - BellaBeat opponent user usage analysis. 
   - Product data analysis: Self-motivated to complete the Hahow course and increased the capability of data analysis to industry standards.
@@ -87,6 +97,16 @@ Big Data Processing: Assisted in the opioid research project. Involved with 3000
   - Promoted to Observatory Coordinator based on exceptional interpersonal skills with colleagues and outstanding communication skills with the public
 
 # 工作經驗
+- 台大藥學院 研究專員/資料科學 -	2023/04～目前
+  - 使用 Gemini 嵌入模型（embeddings）、FAISS 與 Streamlit 打造臨床檢索增強生成（RAG）原型系統，支援醫師與藥師查詢台灣食藥署（TFDA）仿單。
+  - 以 Python 從零開始自主開發客製化架構（不使用 LangChain框架），藉此基準測試（benchmark）多種資料切塊（chunking）策略，並針對 1,800 份藥品仿單進行全文、150 字詞視窗（token windows）及依章節解析之文件處理，進而優化檢索時的上下文內容。
+ - 注重臨床可解釋性與安全防護機制，依據醫師與藥師的可行性回饋，實作 Top-k 檢索技術將得分最高的 6 個文本切塊（text chunks）注入大語言模型（LLM）的上下文視窗中，並提供並排對照畫面以供參考。
+ - 運用 SQLite 建構結構化 RAG 管線以查詢並檢索在地化的院內內部問答（QA）資料集，並將結構化上下文傳遞給本地端 LLM，將複雜的資料庫查詢轉化為適合醫療人員閱讀的連貫解答。
+ - 利用 Python、Ollama 與 Llama 3.1 8B 部署在地化且與外網隔離（air-gapped）的大語言模型系統，以支援具安全性隱私保障的電子病歷（EHR）檢索與臨床文件分析。
+ - 運用 LLM 提示詞工程、JSON Schema 輸出格式、NLTK、n-gram 分析及正規表示式（RegEx）開發自然語言處理（NLP）管線，用以分析心臟超音波（ECHO）與心電圖（ECG）報告並萃取出結構化的臨床資訊。
+ - 標準化台大醫院（NTUH）170,000 筆半結構化心電圖（ECG）紀錄，解決文字欄位破碎零散的問題，以利後續的資料庫整合與數據分析。
+ - 使用 scikit-learn 從零開始建立並評估 4 種臨床機器學習分類模型，用以預測肺癌患者的心臟毒性與心臟衰竭風險；基準測試了 6 種機器學習演算法，並依據最佳的精準率-召回率（Precision-Recall）指標選擇「隨機森林」（Random Forest）作為最終的上線生產模型。
+ - 帶領並指導資料科學實習生完成端到端（end-to-end）的原型開發生命週期，並成功向利害關係人進行成果展示（Demo）。
 - AI 職業發展進修	-	2022/04～目前
   - SQL/BigQuery/Looker/Excel/Tableau 技能：在短於建議學習時程完成 Google Data Analytic Certificate, 強化對專案初期截取資料之技能、增加可使用語言及工具集。
   - 資料挖掘：使用R語言從資料處理、分析、可視化完成自選健身手環專案 - BellaBeat 對手用戶使用分析。
@@ -111,13 +131,15 @@ Big Data Processing: Assisted in the opioid research project. Involved with 3000
   - 因良好的人際溝通技巧而晉升天文台統籌
 
 # Education 學歷
-- Google Data Analytics Professional Certificate. 2022 <br/>
+- Master of Science in Data Science University of Colorado Boulder, USA.  <br/>
+美國 科羅拉多大學波爾得分校 資料科學 碩士
+- Google Data Analytics Professional Certificate. <br/>
 谷歌專業證書 數據分析師
-- Taiwan AI Academy Technical Professional Program, Taiwan. 2021 <br/>
+- Taiwan AI Academy Technical Professional Program, Taiwan. <br/>
 台灣人工智慧學校 技術領袖班
-- Completed courses of MSc in Health Research Method McMaster University, Canada. 2012 <br/>
+- Completed courses of MSc in Health Research Method McMaster University, Canada. <br/>
 加拿大 麥克馬斯特大學 臨床研究 碩士肄業
-- Bachelor Degree, Specialized Honours in Sociology & Astronomy. York University, Canada. 2005 <br/>
+- Bachelor Degree, Specialized Honours in Sociology & Astronomy. York University, Canada.  <br/>
 加拿大 約克大學 社會學 & 天文系 學士畢業 
 
 <img img align="left" src="https://user-images.githubusercontent.com/63726744/131054316-d8c43f1c-dc69-4d8e-b5e6-cfb803d81a62.jpg" width="100" height="130">
