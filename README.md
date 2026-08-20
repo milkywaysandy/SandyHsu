@@ -1,5 +1,5 @@
 <center> <h1>歡迎來到許珊綺個人網頁</h1> </center>
-<center> <a href="https://docs.google.com/document/d/1gZZcNtiYPVJkuAx7e9W1Wd05gf3YLTSHpIV9dI_GyTI/edit?usp=sharing" target="_top">Sandy Hsu's resume（English）</a> 
+<center> <a href="resume_Shan-Chi_Sandy_Hsu.pdf" target="_top">Sandy Hsu's resume（English）</a> 
 <a href="https://drive.google.com/file/d/1-FFpPwc2NVN0WzJ0cwsgUZHadlkwB1wS/view?usp=sharing" target="_top">許珊綺 履歷（中文版）</a><br/>
 </center>
 <center>  Email：organizingwithsandy@gmail.com</center>
